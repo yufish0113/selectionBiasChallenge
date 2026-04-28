@@ -1,14 +1,11 @@
 ---
-title: "Selection Bias & Missing Data Challenge"
-subtitle: "Creating a Statistics Meme: Write Your Own Functions"
+title: "🎨 Selection Bias & Missing Data Challenge"
 format:
   html: default
 execute:
   echo: false
   eval: true
 ---
-
-# 🎨 Selection Bias & Missing Data Challenge
 
 ## Step 1: Prepare Image
 
